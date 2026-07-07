@@ -1,0 +1,6 @@
+{
+  "name": "Data Analytics Pro",
+  "description": "A premium learning platform for Data Analytics, featuring articles, projects, interview questions, and a career roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
